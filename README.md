@@ -2,7 +2,7 @@
   <img width="200" src="https://github.com/rcpch/digital-growth-charts-server/raw/alpha/static/rcpch-logo.png">
 </p>
 
-<img width="200" src="public/htn-awards-winner-202-logo.jpg">
+<img width="200" src="https://raw.githubusercontent.com/rcpch/digital-growth-charts-react-client/unstable/public/htn-awards-winner-2020-logo.jpg">
 
 # RCPCH Growth Charts - React Demo Client
 
